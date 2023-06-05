@@ -12,8 +12,6 @@ pipeline{
           echo "lint checks"
         '''
       }
-
     }
-
   } //End of Stages
 }
